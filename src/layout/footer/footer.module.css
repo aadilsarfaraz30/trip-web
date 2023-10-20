@@ -1,0 +1,15 @@
+.footer-container {
+  background: #13357c;
+  padding: 1rem 3rem;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-title-section{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.footer-title > p{
+margin-top: 10px;
+}

@@ -1,0 +1,7 @@
+.main-container{
+    height: auto;
+    min-height: calc(100vh - 150px);
+}
+.search-section{
+    min-height: 200px;
+}

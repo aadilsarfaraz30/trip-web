@@ -1,0 +1,28 @@
+.view-data-container{
+    height: auto;
+    padding: 2rem 3rem;
+    display: flex;
+    gap: 20px
+
+}
+.sidebar{
+    width: 400px;
+}
+.view-data-main-header{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.sort-chip{
+    background: #EFEFEF;
+    padding: 3px 8px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.sort-chip > span {
+    color: blueviolet;
+    font-size: 0.875rem;
+    font-weight: 600;
+}

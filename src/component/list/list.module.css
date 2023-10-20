@@ -1,0 +1,61 @@
+.list-container{
+    display: flex;
+    gap: 10px;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    transition: transform 0.2s;
+    cursor: pointer;
+    margin: 20px 0;
+}
+.image{
+    width: 15%;
+    padding: 0.875rem;
+}
+.list-container:hover {
+    transform: translateY(2px);
+    cursor: pointer;
+    
+  }
+.data-section{
+    display: flex;
+    padding: 0.875rem;
+    justify-content: space-between;
+    width: 85%;
+}
+.description-section{
+    /* background: red; */
+}
+.hotel-name{
+    font-size: 1.25rem;
+    margin-bottom: 7px;
+    font-weight: 800;
+}
+.hotel-description{
+    line-height: 22px;
+    margin-bottom: 10px;
+}
+.no-of-rooms{
+font-size: 1rem;
+font-weight: 800;
+}
+.area{
+    margin-top: 10px;
+    font-size: 0.875rem;
+    font-weight: 700;
+    color: grey;
+}
+.availabilty-section{
+    color: green;
+}
+.price-review{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.price-review > p {
+    text-align: end;
+    font-size: 1.25rem;
+    font-weight: 700;
+}

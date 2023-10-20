@@ -1,0 +1,206 @@
+[
+  {
+      "hotel_name": "Luxury Grand Hotel",
+      "place": {
+          "state": "New York",
+          "country": "USA"
+      },
+      "no_of_rooms": 200,
+      "price": 200,
+      "availability": {
+          "start_date": "2023-11-01",
+          "end_date": "2023-11-10"
+      },
+      "description": "Luxury Grand Hotel is a 5-star hotel located in the heart of New York. With 200 elegantly appointed rooms and suites, it offers a perfect blend of comfort and sophistication. The hotel is known for its world-class amenities, including a spa, gourmet restaurants, and stunning views of the city.",
+      "reviews": {
+          "rating": 4.5
+      }
+  },
+  {
+      "hotel_name": "Cozy Retreat Inn",
+      "place": {
+          "state": "Colorado",
+          "country": "USA"
+      },
+      "no_of_rooms": 50,
+      "price": 150,
+      "availability": {
+          "start_date": "2023-12-01",
+          "end_date": "2023-12-15"
+      },
+      "description": "Cozy Retreat Inn is a charming retreat in the picturesque state of Colorado. This boutique inn offers 50 well-appointed rooms and a warm, welcoming atmosphere. Guests can enjoy the serene surroundings, explore nearby attractions, and indulge in the comfort of the inn.",
+      "reviews": {
+          "rating": 4.2
+      }
+  },
+  {
+      "hotel_name": "Seaside Paradise Resort",
+      "place": {
+          "state": "Bali",
+          "country": "Indonesia"
+      },
+      "no_of_rooms": 100,
+      "price": 250,
+      "availability": {
+          "start_date": "2023-11-15",
+          "end_date": "2023-11-25"
+      },
+      "description": "Seaside Paradise Resort is a tropical oasis nestled in the heart of Bali, Indonesia. With 100 luxurious rooms and breathtaking ocean views, this resort offers an unforgettable getaway. Guests can relax on pristine beaches, savor international cuisine, and experience Balinese hospitality.",
+      "reviews": {
+          "rating": 4.7
+      }
+  },
+  {
+      "hotel_name": "Mountain View Lodge",
+      "place": {
+          "state": "Alberta",
+          "country": "Canada"
+      },
+      "no_of_rooms": 80,
+      "price": 180,
+      "availability": {
+          "start_date": "2023-12-05",
+          "end_date": "2023-12-20"
+      },
+      "description": "Mountain View Lodge is a cozy retreat located in the stunning wilderness of Alberta, Canada. The lodge offers 80 comfortable rooms with breathtaking mountain views. Guests can enjoy outdoor activities, including hiking and skiing, and savor delicious Canadian cuisine.",
+      "reviews": {
+          "rating": 4.0
+      }
+  },
+  {
+      "hotel_name": "Riviera Paradise Hotel",
+      "place": {
+          "state": "Quintana Roo",
+          "country": "Mexico"
+      },
+      "no_of_rooms": 150,
+      "price": 220,
+      "availability": {
+          "start_date": "2023-11-20",
+          "end_date": "2023-11-30"
+      },
+      "description": "Riviera Paradise Hotel is a luxurious beachfront escape in Quintana Roo, Mexico. With 150 well-appointed rooms and suites, the hotel offers a taste of tropical paradise. Guests can enjoy white sandy beaches, explore nearby Mayan ruins, and indulge in Mexican and international cuisine.",
+      "reviews": {
+          "rating": 4.3
+      }
+  },
+  {
+      "hotel_name": "Alpine Retreat Resort",
+      "place": {
+          "state": "Tyrol",
+          "country": "Austria"
+      },
+      "no_of_rooms": 120,
+      "price": 210,
+      "availability": {
+          "start_date": "2023-12-10",
+          "end_date": "2023-12-25"
+      },
+      "description": "Alpine Retreat Resort is a charming alpine getaway nestled in Tyrol, Austria. With 120 comfortable rooms and a scenic mountain backdrop, this resort is a haven for nature enthusiasts. Guests can enjoy skiing, hiking, and traditional Austrian cuisine.",
+      "reviews": {
+          "rating": 4.6
+      }
+  },
+  {
+      "hotel_name": "Sunset Beach Hotel",
+      "place": {
+          "state": "Hawaii",
+          "country": "USA"
+      },
+      "no_of_rooms": 60,
+      "price": 240,
+      "availability": {
+          "start_date": "2023-11-15",
+          "end_date": "2023-11-25"
+      },
+      "description": "Sunset Beach Hotel is a beachfront paradise on the beautiful island of Hawaii. With 60 ocean-view rooms, the hotel offers a tranquil escape for guests. Visitors can unwind on sandy shores, experience Hawaiian culture, and savor local and international dishes.",
+      "reviews": {
+          "rating": 4.8
+      }
+  },
+  {
+      "hotel_name": "Majestic Palace Hotel",
+      "place": {
+          "state": "Ile-de-France",
+          "country": "France"
+      },
+      "no_of_rooms": 250,
+      "price": 280,
+      "availability": {
+          "start_date": "2023-11-10",
+          "end_date": "2023-11-20"
+      },
+      "description": "Majestic Palace Hotel is a grandiose hotel in the heart of Ile-de-France, France. With 250 opulent rooms and suites, the hotel exudes French elegance and sophistication. Guests can explore the cultural delights of Paris and dine on exquisite French cuisine.",
+      "reviews": {
+          "rating": 4.9
+      }
+  },
+  {
+      "hotel_name": "Snowy Peaks Chalet",
+      "place": {
+          "state": "Colorado",
+          "country": "USA"
+      },
+      "no_of_rooms": 40,
+      "price": 160,
+      "availability": {
+          "start_date": "2023-12-10",
+          "end_date": "2023-12-30"
+      },
+      "description": "Snowy Peaks Chalet is a cozy mountain retreat in the heart of Colorado. With 40 well-appointed rooms, this chalet offers a warm and inviting atmosphere for guests seeking a winter wonderland experience. Visitors can enjoy skiing, snowboarding, and comfort food by the fire.",
+      "reviews": {
+          "rating": 4.1
+      }
+  },
+  {
+      "hotel_name": "Tropical Oasis Resort",
+      "place": {
+          "state": "Florida",
+          "country": "USA"
+      },
+      "no_of_rooms": 120,
+      "price": 220,
+      "availability": {
+          "start_date": "2023-11-25",
+          "end_date": "2023-12-10"
+      },
+      "description": "Tropical Oasis Resort is a paradise in the Sunshine State of Florida, USA. With 120 well-appointed rooms and lush tropical gardens, this resort offers a slice of paradise. Guests can bask in the Florida sun, explore theme parks, and savor a variety of cuisines.",
+      "reviews": {
+          "rating": 4.4
+      }
+  },
+  {
+      "hotel_name": "Alps View Lodge",
+      "place": {
+          "state": "Valais",
+          "country": "Switzerland"
+      },
+      "no_of_rooms": 90,
+      "price": 190,
+      "availability": {
+          "start_date": "2023-10-20",
+          "end_date": "2023-10-31"
+      },
+      "description": "Alps View Lodge is a charming alpine retreat in Valais, Switzerland. With 90 comfortable rooms and stunning mountain vistas, this lodge offers a serene mountain escape. Guests can enjoy skiing, hiking, and Swiss culinary delights in a picturesque setting.",
+      "reviews": {
+          "rating": 4.7
+      }
+  },
+  {
+      "hotel_name": "Sunny Beach Resort",
+      "place": {
+          "state": "California",
+          "country": "USA"
+      },
+      "no_of_rooms": 75,
+      "price": 230,
+      "availability": {
+          "start_date": "2023-10-15",
+          "end_date": "2023-10-30"
+      },
+      "description": "Sunny Beach Resort is a beachfront haven on the California coast, USA. With 75 ocean-view rooms, this resort offers a sunny getaway for travelers. Guests can relax on the beach, explore coastal attractions, and savor a diverse range of Californian cuisine.",
+      "reviews": {
+          "rating": 4.5
+      }
+  }
+]
